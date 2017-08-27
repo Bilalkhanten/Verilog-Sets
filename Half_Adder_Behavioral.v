@@ -1,6 +1,6 @@
 /////////////////////////////////////////////////////////////////////////////////
 //                                                                             //
-// Engineer:                                                   //
+// Engineer: Bilal khan                                                        //
 // Create Date:    03/11/2016                                                  //
 // Module Name:    HA_Behavioural                                              //
 // Description:    Behavioural Model of Half Adder                             //
